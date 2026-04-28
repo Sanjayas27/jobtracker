@@ -12,25 +12,25 @@ A full-stack web application built with **Laravel 13** to track job applications
 ## 📸 Screenshots
 
 ### Login Page
-![Login](screenshots/1-login.png)
+![Login](screenshots/login.png)
 
 ### Register Page
-![Register](screenshots/2-register.png)
+![Register](screenshots/register.png)
 
 ### Dashboard (Empty State)
-![Dashboard Empty](screenshots/3-dashboard-empty.png)
+![Dashboard Empty](screenshots/dashboard-empty.png)
 
 ### Add Application
-![Add Application](screenshots/4-add-application.png)
+![Add Application](screenshots/add-application.png)
 
 ### Dashboard with Data
-![Dashboard](screenshots/5-dashboard-with-data.png)
+![Dashboard](screenshots/dashboard-with-data.png)
 
 ### Edit Application
-![Edit](screenshots/6-edit-application.png)
+![Edit](screenshots/edit-application.png)
 
 ### Profile Page
-![Profile](screenshots/7-profile.png)
+![Profile](screenshots/profile.png)
 
 ---
 
